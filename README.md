@@ -1,6 +1,6 @@
 # 📊 Correlation Analysis: Life Expectancy & Rent by District
 
-This project explores the correlation between **life expectancy** and **average rent** across multiple districts of the city of Valencia over time. Using Python, we analyze and visualize the relationship between these two variables to identify trends.
+This project explores the correlation between **life expectancy** and **average rent** across the multiple districts of the city of Valencia over time. Using Python, to analyze and visualize the relationship between these two variables to identify trends.
 
 ## 📂 Project Structure
 
